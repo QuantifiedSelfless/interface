@@ -1,0 +1,17 @@
+var colors = {
+
+"Dark Green": [42, 56, 47],
+
+"Yellow/Gold": [200, 175, 75],
+
+"light brown": [137, 106, 85],
+
+"dark brown": [75, 66, 59],
+
+"pale blue": [120, 158, 157],
+
+"seafoam": [139, 196, 182]
+};
+
+
+
